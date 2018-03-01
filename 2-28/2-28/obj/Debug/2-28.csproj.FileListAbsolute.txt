@@ -1,0 +1,14 @@
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\bin\Debug\2-28.exe.config
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\bin\Debug\2-28.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\bin\Debug\2-28.pdb
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\obj\Debug\2-28.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\obj\Debug\2-28.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\obj\Debug\2-28.exe
+C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\2-28\2-28\obj\Debug\2-28.pdb
+C:\Data\C-\2-28\2-28\bin\Debug\2-28.exe.config
+C:\Data\C-\2-28\2-28\bin\Debug\2-28.exe
+C:\Data\C-\2-28\2-28\bin\Debug\2-28.pdb
+C:\Data\C-\2-28\2-28\obj\Debug\2-28.csprojResolveAssemblyReference.cache
+C:\Data\C-\2-28\2-28\obj\Debug\2-28.csproj.CoreCompileInputs.cache
+C:\Data\C-\2-28\2-28\obj\Debug\2-28.exe
+C:\Data\C-\2-28\2-28\obj\Debug\2-28.pdb
