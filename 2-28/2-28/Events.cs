@@ -24,7 +24,7 @@ namespace _2_28
         {
             EventID = 5;
             EventTitle = "Why are Programmers So Smart?";
-            EventDate = DateTime.Parse("2017-01-05");
+            EventDate = DateTime.Parse("2017-05-01");
             StaffID = 5;
             StartTime = new TimeSpan(12, 00, 00);
             EndTime = new TimeSpan(2, 30, 00);
@@ -41,7 +41,7 @@ namespace _2_28
         {
             EventID = id;
             EventTitle = en;
-            ed = EventDate;
+            EventDate = ed;
             StaffID = sid;
             StartTime = st;
             EndTime = et;
@@ -55,7 +55,7 @@ namespace _2_28
     hosted on {2}
     by Staff Member ID#{3}.
     This event will start at {4} and end at {5}.
-    Series Indicator: {6}", EventID, EventTitle, EventDate.ToString("dd/MM/yyyy"), StaffID, StartTime, EndTime, SeriesFlag);
+    Series Indicator: {6}", EventID, EventTitle, EventDate.ToString("yyyy-MM-dd"), StaffID, StartTime, EndTime, SeriesFlag);
 
         }
     }
