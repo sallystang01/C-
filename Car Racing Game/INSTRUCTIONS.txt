@@ -1,0 +1,22 @@
+sallystang01
+# C-
+
+//This is documentation:
+	https://www.mooict.com/c-tutorial-top-down-car-racing-game-with-visual-studio/
+	
+	Follow the steps and by the end you will have a running racing game. 
+	
+	Notice!!!!!!!!!
+		Everything in the the tutorial is straight forward but you might
+		be confused when you see the following:
+			ChangeAI1();
+			ChangeAI2();
+			Gameover();
+		Whenever you run across this (you will know when you run across it), ignore the red line
+			and just keep coding. It will come together later on.
+			
+			Enjoy! If you do this game then I would recommend trying out the other games just because
+			they help me understand c# and I think it might help others too.
+
+**I did not create the game tutorials nor the original game**
+**Educational Purposes**
