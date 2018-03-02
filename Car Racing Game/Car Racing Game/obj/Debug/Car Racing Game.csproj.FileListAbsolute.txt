@@ -1,0 +1,10 @@
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe.config
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.exe
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\bin\Debug\Car Racing Game.pdb
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.CarRacingGame.resources
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car_Racing_Game.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.exe
+C:\Users\Cyberadmin\Desktop\Car Racing Game\Car Racing Game\obj\Debug\Car Racing Game.pdb

@@ -56,20 +56,7 @@ namespace _2_28
 
         public void MemberMessage()
         {
-            Console.WriteLine(@"Welcome member #{0}! Glad to see you with us today!
-Please comfirm the following information:
-    RenewalID = {1}
-    Member Number = {2}
-    First Name = {3}
-    Middle Name = {4}
-    Last Name = {5}
-    Email = {6}
-    Phone Number = {7}
-    Gender = {8}
-    Member Since: {9}
-    Current(1 = Yes, 0 = No): {10}
-    Born on: {11}", MemberID, RenewalID, MemberNumber, FirstName, MiddleName, LastName, Email, Phone,
-                    Gender, StartDate.ToString("yyyy-MM-dd"), CurrentFlag, Birtdate.ToString("yyyy-MM-dd"));
+            Console.WriteLine("Welcome {0} {1}! Glad to see you today!", FirstName, LastName);
         }
 
       
